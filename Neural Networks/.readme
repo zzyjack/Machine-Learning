@@ -1,0 +1,3 @@
+This project uses neural networks for notMINIST face recognition.
+The first part uses numpy to construct three layers fully connected neural networks.
+The second part uses CNN.
